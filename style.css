@@ -80,16 +80,18 @@ img {
 }
 .head-section {
   display: flex !important;
+  align-items: center !important;
   gap: 10px;
-  margin-left: 200px !important;
+  margin-left:50px !important;
   color: black !important;
   margin-bottom: 100px !important;
   margin-top: 50px !important;
 }
 .card {
-  height: 2.5cm !important;
-  width: 6cm !important;
+  height: 100px !important;
+  width: 300px!important;
   font-size: xx-small !important;
+  
 }
 .tb {
   font-size: x-small;
